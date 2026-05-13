@@ -175,7 +175,7 @@ The backend is developed using:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/LSTM-NLP-Intent-Chatbot.git
+git clone[ https://github.com/your-username/LSTM-NLP-Intent-Chatbot.git](https://github.com/kanha165/LSTM-NLP-chatbot.git)
 ```
 
 ---
